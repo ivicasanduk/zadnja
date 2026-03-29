@@ -1,0 +1,34 @@
+# Query: contact
+# ContextLines: 1
+
+9 results - 1 file
+
+C:\Users\Drazen\Desktop\CV WEB\iPortfolio\index.html:
+   85          </li>
+   86:         <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Kontakt</a></li>
+   87        </ul>
+
+  701  
+  702:     <!-- Contact Section -->
+  703:     <section id="contact" class="contact section">
+  704  
+
+  706        <div class="container section-title" data-aos="fade-up">
+  707:         <h2>Contact</h2>
+  708          <p>Javite se cim prije to bolje</p>
+
+  746            <div class="col-lg-7">
+  747:             <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+  748                <div class="row gy-4">
+
+  779              </form>
+  780:           </div><!-- End Contact Form -->
+  781  
+
+  785  
+  786:     </section><!-- /Contact Section -->
+  787  
+
+  799          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+  800:         <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+  801          Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> | <a href="https://bootstrapmade.com/tools/">DevTools</a>
